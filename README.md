@@ -33,7 +33,14 @@ All papers and resources related to Quadrotor Research.
 ## Odometry and Sensor Fusion
 ### Visual Odometry/Visual SLAM
 ### Visual Inertial Odometry/VI SLAM
-- [**Visual-Inertial-Aided Navigation for High-Dynamic Motion in Built Environments Without Initial Conditions**](https://ieeexplore.ieee.org/document/6092505/): Sukkarieh's first paper on VIO using a Pre-Integrated factor. 
+- [**Visual-Inertial-Aided Navigation for High-Dynamic Motion in Built Environments Without Initial Conditions**](https://ieeexplore.ieee.org/document/6092505/): Sukkarieh's first paper on VIO using a Pre-Integrated factor. [Code](https://bitbucket.org/gtborg/gtsam)
+- [**IMU Preintegration on Manifold for Efficient Visual-Inertial Maximum-a-Posteriori Estimation**](https://www.cc.gatech.edu/~dellaert/ftp/Forster15rss.pdf): Scaramuzza's VIO paper for pre-integration on Manifold, used in project Tango. [Code](https://bitbucket.org/gtborg/gtsam)
+- [**The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter**](https://ieeexplore.ieee.org/document/7158317/): Lee Clement's awesome comparsion paper. [Code](https://github.com/utiasSTARS/msckf-swf-comparison)
+- [**Iterated extended Kalman filter based visual-inertial odometry using direct photometric feedback**](http://journals.sagepub.com/doi/10.1177/0278364917728574): ETH-Z ROVIO paper. Works like a charm. [Code](https://github.com/ethz-asl/rovio)
+- **MSCKF based Monocular VIO**: Kostas' Implementation of MSKF based monocular VIO used in EVIO paper. [Code](https://github.com/daniilidis-group/msckf_mono)
+-[**VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator**](https://arxiv.org/pdf/1708.03852.pdf): Shaojie's awesome VIO code. [Code](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)
+-[**A Benchmark Comparison of Monocular Visual-Inertial Odometry Algorithms for Flying Robots**](http://rpg.ifi.uzh.ch/docs/ICRA18_Delmerico.pdf): Scaramuzza's great comparison of SVO, MSCKF, OKVIS, ROVIO and VINS on different computers: Laptop, Intel NUC, Up Board and ODROID. 
+
 ### Stereo Visual Odometry/Stereo Visual SLAM
 ### RGB-D Odometry/RGB-D SLAM
 ### LIDAR Odometry/LIDAR SLAM
