@@ -31,10 +31,15 @@ All papers and resources related to Quadrotor Research.
 
 
 ## Odometry and Sensor Fusion
-### Visual Odometry
-
+### Visual Odometry/Visual SLAM
+### Visual Inertial Odometry/VI SLAM
+- [**Visual-Inertial-Aided Navigation for High-Dynamic Motion in Built Environments Without Initial Conditions**](https://ieeexplore.ieee.org/document/6092505/): Sukkarieh's first paper on VIO using a Pre-Integrated factor. 
+### Stereo Visual Odometry/Stereo Visual SLAM
+### RGB-D Odometry/RGB-D SLAM
+### LIDAR Odometry/LIDAR SLAM
 
 ## Quadrotor going through Window
 
 ## Quadrotor Carrying Payload
 
+## Event based Quadrotor
