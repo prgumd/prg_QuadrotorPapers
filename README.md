@@ -31,6 +31,8 @@ All papers and resources related to Quadrotor Research.
 
 
 ## Odometry and Sensor Fusion
+### Visual Odometry
+
 
 ## Quadrotor going through Window
 
